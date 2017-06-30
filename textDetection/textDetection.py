@@ -3,6 +3,7 @@ import sys
 
 import cv2
 import numpy as np
+#添加注释用于测试
 
 def preprocess(gray):
     # 1. Sobel���ӣ�x�������ݶ�
